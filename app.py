@@ -14,7 +14,7 @@ def adder_page():
             <html>
                  <body>
                     <br/>
-		    <center><font size="5">The result is {result}</font></center>
+		    <center><font size="5">Anagrams {result}</font></center>
                     <br/>
 		    <center><a href="/"><font size="5">Click here to find again</font></a></center>
                 </body>
